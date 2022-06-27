@@ -1,3 +1,6 @@
+## EX NO : 06
+## DATE : 07-06-2022
+
 # Sudoku
 
 ## Aim:
